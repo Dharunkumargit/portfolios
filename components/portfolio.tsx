@@ -108,7 +108,6 @@ const skillGroups = [
     ],
   },
 ];
-
 const projects = [
   {
     number: "01",
