@@ -112,7 +112,7 @@ const projects = [
   {
     number: "01",
     name: "PREPBUDDY",
-    category: "Learning & Preparation Platform",
+    category: "Learning & Preparation Platforms",
     stack: ["Next.js", "TypeScript", "Java", "Spring Boot", "PostgreSQL", "SQL"],
     description:
       "A web-based learning and preparation platform that provides learners with structured preparation content and learning resources.",
